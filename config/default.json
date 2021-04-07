@@ -1,0 +1,4 @@
+{"mongoURI":"mongodb+srv://yash:yash123@cluster0.bbdj7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secret":"yashsecrettoken"
+  
+}
