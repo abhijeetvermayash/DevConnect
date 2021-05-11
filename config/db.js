@@ -10,6 +10,7 @@ const connectDB = async () => {
       useNewUrlParser: true,
       useUnifiedTopology: true, //added as it was giving some warnings
       useCreateIndex: true,
+      useFindAndModify: false,
     }); //mongoose.connect("url to connect here")--->will return a promise so we are doing asynv await.
     console.log("hurrayyy!Database connected!");
   } catch (err) {
