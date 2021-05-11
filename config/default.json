@@ -1,7 +1,0 @@
-{"mongoURI":"mongodb+srv://yash:yash123@cluster0.bbdj7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "secret":"yashsecrettoken",
-  "githubclientid":"a3d5cabb686d0134c2c3",
-  "githubsecretkey":"26bd2345984d5b601272796bd6601cdd9a779137"
-  
-  
-}
